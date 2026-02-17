@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.4.3",
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^3.0.0",
     "codyhouse-framework": "^3.0.0",
     "gulp": "^4.0.0",
     "gulp-clean-css": "^4.3.0",
